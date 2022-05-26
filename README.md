@@ -1,11 +1,3 @@
 # Smart-irrigation-system
 
-Agriculture is vital to our survival as people. Agricultural work is needed in almost every
-aspect. Agriculture produces the majority of the world's fabrics, in addition to our daily food.
-Agricultural items include cotton, wool, and leather. Agriculture also produces timber for
-construction and paper products, and the list of benefits goes on. It is extremely important
-throughout a country's entire life. Agriculture's success is determined by several conditions,
-including enough irrigation, sunlight, and soil. Irrigation is a method of supplying controlled
-amounts of water to plants using artificial means such as pipelines, ditches, and sprinklers. This
-project would be extremely beneficial to farmers and nursery professionals since it would eliminate
-the need for traditional or manual work
+We as humans know the importance and role that agriculture plays in our day to day living. Almost every aspect requires some sort of agricultural work. Not only the daily food we eat, agriculture provides most of the world's fabrics. Agriculture  plays a critical role in the entire life of a given nationality. The boom of agriculture depends on various factors such as proper irrigation, adequate sunlight , proper soil  and so on..  Irrigation is the process through which controlled amounts of water can be supplied through artificial means such as pipes, ditches, sprinklers etc. the main objectives of irrigation systems is to help agricultural crop growth, landscape maintenance, reduce the effect of inadequate rainfall etc. Therefore, the importance of irrigation systems is very high. Since always monitoring the moisture content of a plant and watering it manually in appropriate intervals is quite a cumbersome task, our core idea is to automate irrigation by sensing the moisture content of the soil and automatically watering the plants based on the sensed humidity. This project would be extremely beneficial to farmers and nursery professionals since it would eliminate the need for traditional or manual work
